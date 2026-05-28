@@ -1,0 +1,61 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1
+{
+    font-family: "Arial black";
+	font-size : 2em;
+    color: rgb(31, 42, 196);
+}
+
+p
+{
+    font-family: "Arial" ;
+    font-size : 1.2em;
+    color: white;
+    animation-duration: 3s;
+    animation-name: slide;
+}
+body
+{
+    background-size:cover;
+    background-image: url(../images/mkback3.jpg);
+}
+ul
+{
+    font-family: "Arial black";
+	font-size : 1.2em;
+    color: red;
+}
+video {
+    float: right;
+  }
+
+  h2
+{
+    font-family: "Arial black";
+	font-size : 2em;
+    color: rgb(255, 255, 255);
+    float: right;
+    animation-duration: 3s;
+    animation-name: slide;
+}
+
+.oui{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+
+@keyframes slide {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+}

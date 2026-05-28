@@ -1,0 +1,811 @@
+PAGE INDEX 
+
+<!doctype html>
+<html lang="fr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Top 4 des meilleurs jeux de combat</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body class="oui">
+  <h1>
+    Top 4 des meilleurs jeux de combat
+  </h1>
+
+
+  <h2>
+    Top 4 : Super Smash Bros
+  </h2>
+  <img src="images/Super_Smah_Bros.jpg" alt="Super Smash Bros">
+
+  <p> <a href="super_smahs_bros.html">Super Smash Bros</a> est une série de jeux vidéo de combat et de plates-formes
+    éditée par Nintendo et développée par Hal Laboratory, Sora Ltd et Bandai Namco Games. Elle met en scène des
+    combats entre de nombreux personnages majoritairement issus de l'univers des jeux Nintendo. depuis le premier
+    Super Smash Bros publié en 1999 sur la Nintendo 64 la série ne cesse de se développer. En plus de l'amélioration
+    des graphismes, le nombre de personnages et de niveaux ne cesse d'augmenter à chaque nouvel épisode et de nouveaux
+    modes font également leur apparition</p>
+
+  <h2>
+    Top 3 : Street Fighter
+  </h2>
+  <img src="images/Street_Fighter.jpg" alt="Street Fighter">
+
+  <p> <a href="street_fighter.html">Street Fighter</a> est une série de jeux vidéos de combat en un contre un
+    développée par Capcom, dont le premier épisode est publié en 1987.
+
+    <br>Street Fighter est une des licences les plus populaire parmis les jeux vidéo de combat. Elle a une large
+    communauté de joueur et plus de soixante millions d'exemplaire de jeux vendus notamment grâce à Street Fighter
+    II qui a lui seul en a vendu plusieurs millions d'exemplaires et de consoles.
+  </p>
+
+  <h2>
+    Top 2 : Tekken
+  </h2>
+  <img src="images/Tekken.jpg" alt="Tekken">
+
+  <p> <a href="tekken.html">Tekken</a> est une série de jeux vidéo de combat en 3D. Apparue en 1994, elle est
+    développé par Namco pour borne d'arcade puis adaptée sur les consoles, initialement sur PlayStation.
+
+    <br>Le dernier jeu, Tekken 7, sort le 18 mars 2015 sur arcade. une version amélioré du jeu, Tekken 7 : Fated
+    Retribution, sort le 7 juillet 2016. la version consle ets annoncé pendant l'E3 2016 et sort officiellement le
+    2
+    juin 2017, sur PlayStation, Xbox One et PC. 
+
+    <br> En 2022, Netflix annonce une série animée dédiée à la licence de jeux sous le titre Tekken : Bloodline.
+    
+  </p>
+
+  <h2>
+    Top 1 : Mortal Kombat
+  </h2>
+  <img src="images/Mortal_Kombat.jpg" alt="Mortal Kombat">
+  <p> <a href="mortal_kombat.html">Mortal Kombat</a> est une série de jeux vidéo de combat. La série se veut
+    concurrente de la franchise Street Fighter. Le premier jeu est vendu en 1992, un an après la sortie de Street
+    Fighter II : The World Warrior. Il est suivi par quinze jeux dont trois spin-offs, le dernier, Mortal Kombat,
+    1
+    sort 19 septembre 2023
+
+    <br>La série est reconnu par ses graphismes et une violence brutale et sanglante, dont la marque de fabrique
+    sont
+    les "Fatalities", séquences sanglantes de torture de l'adversaire vaincu. La lettre K est souvent utilisée
+    dans la
+    série pour orthographier des morts normalement écrits avec un "C". 
+    <br>Dès le début la série est très populaire aux Etats-Unis et donne lieu à des protestations publique de
+    parents
+    et d'associations, condamnant sa violence excessive. A l'origine, la franchise était principalement développé
+    par
+    Midway. 
+    <br>Suite à la fermeture du studio, elle est maintenant développé par NetherRealm Studios et publiée par
+    Warner
+    Bros. Interactive Entertainment.
+
+    <br>Il existe de nombreuses adapations, notamment sous forme d'animé, de films, de novel ou encore de
+    comics.
+  </p>
+
+  <footer class="oui">
+                
+    <p><a href="my_page.html"> A Propos</a></p>
+                
+  </footer>
+</body>
+
+
+</html>
+
+PAGE MORTAL KOMBAT
+
+<!doctype html>
+<html lang="fr">
+
+<head>
+    <link rel="stylesheet" href="css/stylesmk.css">
+    <meta charset="utf-8">
+    <title>Mortal Kombat</title>
+
+</head>
+
+
+
+<body>
+            <h1 class="oui">
+                Mortal Kombat
+            </h1>
+
+            
+                <p class="oui"><br>Mortal Kombat sort sur bornes d'arcade en 1992 et est conçu par John Tobias et Ed Boon. Il copie
+                    certaines conventions de Street Fighter II, mais recherche l'originalité au niveau du style. Il se
+                    démarque par sa violence exagérée et des graphismes numérisés extraits de séquences d'acteurs filmés
+                    pour plus de réalisme1. Enfin, toujours dans un souci d'attention portée à la violence, le jeu
+                    ajoute des « Fatalités » qui ne changent strictement rien au combat mais ajoutent des cinématiques
+                    sanglantes de torture de l'ennemi vaincu. La Mega Drive et la Super Nintendo accueillent des
+                    versions édulcorées du jeu. Sur la Mega Drive, le jeu est censuré, mais le code ABACABB permet de
+                    débloquer les scènes violentes du jeu original. Sur la Super Nintendo, le sang est coloré en gris
+                    pour évoquer des gouttes de transpiration, et les fatalités les plus violentes sont supprimées.
+                    Mortal Kombat II a un seul objectif pour Ed Boon : « il fallait qu'on fasse deux fois mieux que le
+                    premier jeu ».
+                    <br>
+                    <br>Cet objectif est justifié par le fait que le concurrent Capcom prépare Super Street Fighter II:
+                    The New Challengers de son côté. Dans Mortal Kombat II, sorti sur arcade en novembre 1993, on passe
+                    de sept à douze personnages jouables, avec beaucoup plus d'actions spéciales qu'auparavant. En
+                    particulier, chaque personnage est maintenant doté de deux fatalités différentes. Le scénario est
+                    aussi complètement retravaillé pour devenir beaucoup plus complexe que le premier4. Le jeu
+                    compétitif prend de l'essor, les combos étant plus développés que dans le premier opus. Le jeu sort
+                    en version non censurée sur la Mega Drive et sur la Super Nintendo, mais est assorti d'une notice
+                    ESRB qui prévient les parents du contenu violent qu'il inclut. Entre 1993 et 1995, le jeu est
+                    adapté à presque toutes les consoles de son époque, de la Mega-CD à la Game Boy.
+                    <br>
+                    <br>Mortal Kombat 3 fait passer le jeu de douze à quinze personnages, dont sept nouveaux, très
+                    appréciés par les joueurs. Cependant, les personnages de Scorpion, Kitana, Mileena et Baraka, entre
+                    autres, sont ôtés du jeu, à la grande déception des joueurs des premières éditions5. Suivant la mode
+                    de Killer Instinct, le jeu ajoute un système où une séquence de boutons permet de choisir une série
+                    de coups sans nécessiter une rapidité d'action particulière6. Un bouton « course » est ajouté pour
+                    rendre le jeu moins défensif2. Le jeu rencontre un succès satisfaisant, mais Midway espérait mieux
+                    et se concentre sur une mise à jour, intitulée Ultimate Mortal Kombat 3 et sortie en 1996. La mise à
+                    jour ramène les personnages Kitana, Mileena, Scorpion et Reptile, ainsi que Jade, personnage caché
+                    non-jouable du deuxième jeu. Johnny Cage, Raiden et Baraka ne sont pas réintégrés au jeu.
+                    Mortal Kombat 4 marque les débuts de la franchise dans l'univers des graphismes en 3D. Il sort sur
+                    bornes d'arcade le 11 septembre 1997. Le jeu en lui-même semble satisfaire les fans de la licence,
+                    mais c'est justement leur nombre qui diminue avec une perte générale d'intérêt pour l'ultra-violence
+                    et la perte du réalisme des éditions précédentes. Le jeu sort ensuite sur PlayStation et Nintendo
+                    64, où on lui reproche le manque de modernité de son système de jeu, en particulier par rapport au
+                    nouveau concurrent SoulCalibur Mortal Kombat: Deadly Alliance marque un tournant pour la série, avec
+                    beaucoup plus de budget et une modification complète du système de jeu. C'est aussi la modification
+                    des conventions de nommage, qui passe des titres numérotés aux titres avec sous-titres7. Il ne sort
+                    qu'en 2002, Midway ayant choisi de donner plus de temps que prévu à ses développeurs après l'échec
+                    de Mortal Kombat 4 et du jeu dérivé Mortal Kombat Special Forces. Le jeu sort sur PlayStation 2,
+                    Xbox et GameCube. Il reçoit des critiques très positives et vend plus d'un million d'exemplaires en
+                    six semaines.
+                    <br>
+                    <br>Mortal Kombat: Mystification (Mortal Kombat: Deception en anglais) sort en 2004 et se concentre
+                    sur un gain de viabilité pour le jeu compétitif. Le jeu reçoit un très bon accueil et des très
+                    bonnes notes de la presse spécialisée, et inclut énormément de contenu supplémentaire : plus de
+                    personnages et surtout un mode Histoire beaucoup plus complet que dans les opus précédents de la
+                    série.
+                    Mortal Kombat: Armageddon sort en 2006 et ramène presque tous les personnages des cinq jeux
+                    précédents, soit un cast de plus de 60 personnages jouables8. Le jeu est généralement apprécié, mais
+                    également accusé d'être redondant avec les éditions précédentes : en particulier, il est développé
+                    avec le même moteur que les deux précédents.
+                    <br>
+                    <br>Mortal Kombat vs. DC Universe (2008) marque le début d'une nouvelle ère pour Mortal Kombat, y
+                    compris par le partenariat avec DC Comics. Les Fatalités y sont rendues moins violentes en raison de
+                    la présence de personnages d'une autre licence. Le jeu reçoit des bonnes critiques.
+                    <img src="images/mortalkombat.jpg" alt="Kombat"> 
+                    <br>
+                    <br>Mortal Kombat (MK9) sort en 2011. Si Ed Boon en est toujours le chef de projet, l'équipe
+                    appartient désormais à WB Interactive. Les développeurs se renomment également en NetherRealm
+                    Studios et travaillent à revenir aux origines de la série avec leur nouveau jeu9. Le jeu repasse en
+                    format 2D et reçoit un accueil extrêmement positif.
+                    <br>
+                    <br>Mortal Kombat X sort le 14 avril 2015 sur PlayStation 4 et Xbox One10. À sa sortie, le jeu
+                    essuie de nombreuses critiques concernant la stabilité toute relative du jeu et de sa composante
+                    multijoueur en ligne. Plusieurs patchs sortent dans un intervalle relativement court mais ne règlent
+                    pas le problème : un patch en particulier supprime toutes les sauvegardes du jeu chez les joueurs.
+                    Fin août 2015, Warner Bros. Interactive Entertainment annule la sortie des versions PlayStation 3 et
+                    XBox 360. Le 20 janvier 2016, Mortal Kombat XL sort sur Xbox One et PlayStation 4 : le jeu est
+                    identique à Mortal Kombat X mais les bugs sont réparés13.
+                    Mortal Kombat 11 sort le 23 avril 2019 sur PlayStation 4, Xbox One, PC et Nintendo Switch14. Le jeu
+                    réalise un très bon démarrage et reçoit un excellent accueil de la part des joueurs. Cependant, la
+                    première mise à jour a lieu quelques jours après sa sortie, les joueurs se plaignant de la
+                    difficulté du mode Tours du Temps. Devant le grand succès de Mortal Kombat 11, une extension au jeu
+                    de base a été créée (nommée Aftermath). Elle sort le 26 mai 2020 et permet aux joueurs de découvrir
+                    une suite au mode Histoire avec un scénario inédit.
+                    Mortal Kombat 1 sort le 19 septembre 2023 sur PlayStation 5, Xbox Series, PC et Nintendo Switch
+            
+
+            <p>Vidéo Trailer Mortal Kombat 1</p>
+            <video width="620" height="340" controls>
+                <source src="video/mktrailer.mp4" type=video/mp4>
+            </video>
+
+
+            <br><ul>
+                <li>Mortal Kombat (1992)</li>
+                <li>Mortal Kombat II </li>
+                <li>Mortal Kombat 3</li>
+                <li>Ultimate Mortal Kombat 3</li>
+                <li>Mortal Kombat Trilogy</li>
+                <li>Mortal Kombat 4</li>
+                <li>Mortal Kombat Gold</li>
+                <li>Mortal Kombat Advance</li>
+                <li>Mortal Kombat: Deadly Alliance</li>
+                <li>Mortal Kombat: Tournament Edition</li>
+                <li>Mortal Kombat: Deception</li>
+                <li>Mortal Kombat: Armageddon</li>
+                <li>Mortal Kombat: Unchained</li>
+                <li>Mortal Kombat vs. DC Universe</li>
+                <li>Mortal Kombat (2011)</li>
+                <li>Mortal Kombat Arcade Kollection</li>
+                <li>Mortal Kombat X</li>
+                <li>Mortal Kombat 11</li>
+                <li>Mortal Kombat 11: Aftermath and Ultimate</li>
+                <li> Mortal Kombat 1</li>
+
+
+
+            </ul>
+            
+
+            <p>
+
+            <footer class="oui">
+                
+                    <p><a href="index.html"> ACCUEIL</a></p>
+                
+            </footer>
+           
+    
+    </article>
+</body>
+
+
+
+
+
+</html>
+
+
+PAGE STREET FIGHTER 
+
+<!doctype html>
+<html lang="fr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Street Fighter</title>
+  <link rel="stylesheet" href="css/stylefighter.css">
+</head>
+
+<body>
+
+  <h1 class="oui">
+    Street Fighter
+  </h1>
+  
+    <p class ="oui">
+      <br> Le premier épisode de la série est sorti en 1987, et a pour originalité de tirer profit du système analogique
+      des boutons : la puissance des coups portés dans le jeu est proportionnelle à la pression appliquée sur les
+      boutons. Ce système fut abandonné à la suite des abus et mauvais traitements subis par les bornes, certains
+      joueurs n'hésitant pas à monter sur la machine et à taper du pied sur les boutons afin de viser les meilleurs
+      scores.
+      <br>
+      <br>Dans ce premier opus, il n'était pas possible de sélectionner d'autres personnages que Ryu pour le premier joueur,
+      et Ken pour le second joueur. Les adversaires étaient classés par groupe de deux selon leur pays d'origine (Japon
+      au départ, Chine, USA, Angleterre, et enfin Thaïlande). C'est Sagat qui officie en tant que boss de fin dans ce
+      jeu.
+      <br>
+      <br>Renommé Fighting Street à l'occasion de ses portages console, le jeu connait un succès relatif.
+      La série est surtout connue pour son deuxième épisode, Street Fighter II: The World Warrior, sorti en 1991 et pour
+      toutes les variantes (Champion Edition, Hyper Fighting, etc.) qui lui ont succédé, la dernière d'entre elles étant
+      sortie en 2017. Des personnages venus des quatre coins de la planète se livrent à des combats en un contre un,
+      dans un jeu où la jouabilité est particulièrement mise en avant. On peut penser que l'aspect stratégique des
+      combats, ainsi que le système des coups spéciaux (à base d'arcs de cercle ou autres mouvements du joystick)
+      grandement facilités par rapport à l'opus original, furent pour beaucoup dans le succès légendaire de ce jeu, qui
+      fit vendre à lui tout seul plusieurs dizaines de milliers de consoles de jeu de l'époque (Super Nintendo et Mega
+      Drive).
+      
+      
+    </p>
+  <p class="oui"><img src="images/Street_Fighter_img.jpg" alt="Street Fighter"></p>
+  <p>
+  <ul>
+    <li> Street Fighter / Fighting Street (1987)</li> 
+    <li> Street Fighter II: The World Warrior (1991)</li>
+    <li> Street Fighter II': Champion Edition (1992)</li>
+    <li> Street Fighter II': Hyper Fighting (1992)</li>
+    <li>Super Street Fighter II: The New Challengers (1993)</li>
+    <li>Super Street Fighter II - The Tournament Battle (1993)</li>
+    <li> Super Street Fighter II Turbo (1994)</li>
+    <li> Hyper Street Fighter II: The Anniversary Edition (2003)</li>
+    <li> Super Street Fighter II Turbo HD Remix (2008)</li>
+    <li> Ultra Street Fighter II: The Final Challengers (2017)</li>
+    <li> Street Fighter Alpha: Warriors' Dreams (1995)</li>
+    <li> Street Fighter Alpha 2 (1996)</li>
+    <li> Street Fighter Zero 2 Alpha (1996 au Japon uniquement)</li>
+    <li> Street Fighter III: New Generation (1997)</li>
+    <li> Street Fighter III: 2nd Impact - Giant Attack (1997)</li>
+    <li> Street Fighter III: 3rd Strike - Fight for the Future (1999)</li>
+    <li>Street Fighter Alpha 3 (1998)</li>
+    <li> Street Fighter Zero 3 Upper (2001)</li>
+    <li> Street Fighter Alpha 3 Max (2005)</li>
+    <li> Street Fighter IV (2008)</li>
+    <li> Super Street Fighter IV (2010)</li>
+    <li> Super Street Fighter IV: Arcade Edition (2011)</li>
+    <li> Ultra Street Fighter IV (2014)</li>
+    <li> Street Fighter V (2016)</li>
+    <li> Street Fighter V: Arcade Edition (2018)</li>
+    <li> Street Fighter V: Champion Edition (2020)</li>
+    <li> Street Fighter 6 (2023)</li>
+  </ul>
+
+  <footer>
+    
+      <p class="oui"><a href="index.html">Page d'Acceuil</a></p>
+    
+  </footer>
+</body>
+
+</html>
+
+PAGE SUPER SMASH BROS
+
+<!doctype html>
+<html lang="fr">
+
+<head>
+     <link rel="stylesheet" href="css/stylesmash.css" />
+     <meta charset="utf-8">
+     <title></title>
+
+</head>
+
+
+
+<body class="oui">
+
+
+     <h1>
+          Super Smash Bros. 
+     </h1>
+     <hr>
+     
+          <p><br>Le système de jeu de la série Super Smash Bros. diffère radicalement de celui de la plupart des jeux de
+               combat traditionnels. Au lieu de vaincre en épuisant la barre de vie de l'adversaire, un joueur de Super
+               Smash Bros. remporte le combat en propulsant ses adversaires hors de l'arène.</br>
+               <br>Pour cela, il faut frapper à répétition son adversaire afin de faire monter sa jauge de pourcentage
+               de dégâts. Plus elle est élevée, plus les coups portés le feront voler loin pour l'expulser de
+               l'écran.</br>
+               <br> Cette particularité du système de combat rend la série Super Smash Bros. unique en son genre dans le
+               sens où elle allie l'aspect classique des jeux de combats, consistant à enchaîner des coups en appuyant
+               sur des combinaisons de touches, à la mobilité d'un jeu de plateforme, puisque les personnages doivent
+               constamment se déplacer au sein de différentes plateformes constituants les arènes et effectuer des sauts
+               pour tenter de revenir sur l’arène duquel ils auraient été éjectés.</br>
+               <br>Les coups sont également donnés de manière assez novatrice pour un jeu de combat puisqu'ils dépendent
+               de la direction dans laquelle le joueur oriente le stick directionnel au moment où il donne le coup. Deux
+               types d'attaques se distinguent également : les coups normaux et les coups spéciaux. Les coups spéciaux
+               diffèrent d'un personnage à un autre. Les attaques smash sont quant à elles des coups normaux à la
+               puissance amplifiée et pouvant être chargées qui sont effectuées en pressant simultanément le bouton
+               d'attaque et le stick directionnel dans la direction voulue.</br>
+               <br>Par ailleurs, divers objets apparaissent dans l'arène pour être ramassés et ainsi faire diminuer son
+               propre pourcentage de dégâts (soins) ou infliger des dégâts à l'adversaire (armes, pièges, etc).
+               Il existe également une attaque ultime unique à chaque personnage, le Smash final. Lors de ce coup apparu
+               dans Brawl, l'adversaire subit de lourds dégâts. Ce coup est disponible en détruisant une balle Smash,
+               soit une version moins puissante dans Ultimate en complétant une jauge de Smash final.</br>
+
+               <img src="images/banner4.jpg" alt="smash" /> </a>
+               <br>Les avis émis sur la série Super Smash Bros. sont généralement positifs. La plupart des critiques
+               adressées au premier épisode ont également été faites aux épisodes suivants.</br>
+               <br>Super Smash Bros. a reçu des louanges de la presse pour son mode multijoueur. Nintendo Power classe
+               cette série comme l'une des meilleures expériences multijoueurs de l'histoire de Nintendo, évoquant comme
+               principale raison sa jouabilité infinie induite par les nombreux coups spéciaux des personnages et ses
+               combats rapprochés. Toutefois, les critiques ne sont pas unanimes, les principaux défauts relevés étant
+               que le système de score du jeu n'est pas facile à suivre durant les combats et que le mode solo manque de
+               fonctionnalités.</br>
+     
+
+     <video width="520" height="140" controls>
+          <source src="video/smashtrailer.mp4" type=video/mp4>
+     </video>
+
+     <ul>
+
+          <li>super smash bros (1999)</li>
+          <li>super smash bros melee (2001)</li>
+          <li>super smash bros brawl (2008)</li>
+          <li>super smash bros for nintendo 3ds (2014)</li>
+          <li>super smash bros for wii U (2014)</li>
+          <li>super smash bros ultimate (2018)</li>
+
+     </ul>
+
+     </p>
+     <hr style=clear:both; visibility: hidden; »>
+
+
+     
+          <footer>
+               <p><a href="index.html"> PAGE ACCUEIL</a></p>
+          </footer>
+          </p>
+     
+     </article>
+</body>
+
+
+
+
+
+</html>
+
+PAGE TEKKEN
+
+<!doctype html>
+<html lang="fr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Tekken</title>
+  <link rel="stylesheet" href="css/styletekken.css">
+</head>
+
+<body>
+  <h1 class="oui">
+    Tekken
+  </h1>
+      <p class="oui">
+      <br> Comme dans la plupart des jeux de combat, le joueur choisit un personnage et affronte son adversaire en duel.
+      Les personnages se battent avec leur propre art martial, où l'on retrouve notamment les personnages iconiques de
+      la saga : Kazuya et Heihachi Mishima qui maitrisent le karaté, Paul Phoenix le judo ou encore Forest Law, le jeet
+      kune do. La série Tekken se compose de plusieurs modes de jeu, avec de nouveaux modes qui viennent se greffer à
+      la série au fil des épisodes. Les épisodes comprennent les modes classiques : le mode « Histoire », « Duel », «
+      Versus », « Contre-la-montre », « Survie », « Équipe », « Entraînement », «Force Tekken » et « Bowling ». Du
+      premier Tekken jusqu'au cinquième épisode, le joueur affronte une série d'adversaires gérée par l'ordinateur ou
+      soit contre un autre joueur. Le mode en ligne vient s'ajouter avec Tekken 5: Dark Resurrection sur PlayStation 3,
+      le jeu est doté d'un système de classement avec plusieurs grades pour différencier le niveau des joueurs.
+      Dans le premier Tekken, le joueur ne pouvait bloquer les attaques que manuellement. Dans Tekken 2, le système de
+      blocage évolue, le joueur peut bloquer une attaque en restant immobile. Les personnages debout bloquent les
+      attaques hautes et les attaques moyennes, tandis que les personnages accroupis esquivent les attaques hautes et en
+      bloquent les basses. Le système permet également au joueur de contrer un adversaire accroupi en exécutant un coup
+      moyen normal. Tekken 3 instaure un nouveau système d'esquive, où le joueur peut réaliser des pas de côté soit vers
+      le bas, soit vers le haut du décor pour éviter un coup. Les pas de côté permettent d'exécuter de nouvelles
+      projections sur les côtés gauches et droits de l'adversaire. Tekken 4 évolue encore dans le gameplay, le titre
+      offre de nouvelles arènes conçues totalement en 3D où les combattants sont délimités par des murs et où certains
+      éléments du décor sont destructibles. Tekken 5 opte toujours pour des arènes entre quatre murs, mais y mêle
+      aussi les arènes infinies, sans obstacle.
+      <br>
+      <br>Tekken 6 conserve une grande partie du design de Tekken 5 mais inclut un nouveau mode Rage, qui s'active lorsque
+      le personnage dont la barre de vie est proche du KO, il voit ainsi ses dégâts doublés. De nouveaux mouvements
+      sont également ajoutés aux coups portés, les « Bound Hits », qui permettent au joueur d'enchaîner davantage de
+      combos. Tekken 6 possède des arènes dont les sols et les murs sont destructibles, ce qui amène le joueur dans
+      une nouvelle zone de combat.</br>
+      <img src="images/Tekken_img.jpg" alt="Tekken">
+    </p>
+  
+  <p>
+  <ul>
+    <li>Tekken (1994-1995) (PlayStation)</li>
+    <li> Tekken 2 (1995-1996) (PlayStation)</li>
+    <li> Tekken 3 (1997-1998) (PlayStation)</li>
+    <li> Tekken Tag Tournament (1999-2000) (PlayStation 2)</li>
+    <li> Tekken Advance (2001-2002) (Game Boy Advance)</li>
+    <li> Tekken 4 (2001-2002) (PlayStation 2)</li>
+    <li> Tekken 5 (2004-2005) (PlayStation 2)</li>
+    <li> Tekken 5: Dark Resurrection (2005-2006) (PlayStation 3, PlayStation Portable)</li>
+    <li> Tekken 6 (2007-2008) (PlayStation 3, Xbox 360, PlayStation Portable)</li>
+    <li> Tekken 6: Bloodline Rebellion (2008-2009) (PlayStation 3, Xbox 360, PlayStation Portable)</li>
+    <li> Tekken 3D: Prime Edition (2012) (Nintendo 3DS)</li>
+    <li> Tekken Tag Tournament 2 (2011-2012) (PlayStation 3, Xbox 360, Wii U, Arcade)</li>
+    <li> Street Fighter X Tekken (2012) (PlayStation 3, Xbox 360, PlayStation Vita, PC)</li>
+    <li> Tekken Revolution (2013 / fermé en 2017) (PlayStation 3)</li>
+    <li> Tekken 7 (2015-2017) (PlayStation 4, Xbox One, PC)</li>
+    <li> Tekken 7: Fated Retribution (2016) (Arcade)</li>
+    <li> Tekken Mobile (2018 / fermé en 2019) (iOS, Android)</li>
+    <li> Tekken 8 (2024) (PlayStation 5, Xbox Series, PC)</li>
+  </ul>
+  <footer>
+    </p>
+    
+      <p class="oui"><a href="index.html">Page d'Acceuil</a></p>
+    
+  </footer>
+</body>
+
+
+</html>
+
+PAGE A PROPOS
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>A Propos</title>
+    <link rel="stylesheet" href="css/stylepage.css">
+</head>
+<body>
+    <h1 class="oui">Virgile Aubriet</h1>
+    <ul>
+        <li>Etudes : BUT R&T</li>
+        <li>Hobby : Lire, Jouer aux jeux vidéos</li>
+    </ul>
+
+    <br><footer>
+        <p><a href="index.html">Accueil</a></p>
+    </footer>
+</body>
+</html>
+
+CSS INDEX 
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1
+{
+    font-family: "Arial Black";
+    color: white;
+}
+h2
+{
+    font-family: "Arial Black";
+    color: white;
+    background-color: darkblue;
+    border-radius: 15%;
+    animation-duration: 3s;
+    animation-name: slide;()
+}
+p
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: black;
+    animation-duration: 3s;
+    animation-name: slide;
+}
+body 
+{
+    background-size:cover;
+    background:center;
+    background-image: url(../images/26142.jpg);
+}
+
+.oui{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+@keyframes slide {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+}
+
+CSS STREET FIGHTER 
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1
+{
+font-family: "Arial Black";
+color: white;
+}
+p
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    animation-duration: 3s;
+    animation-name: slide;
+}
+ul
+{
+    font-family: "Arial black";
+	font-size : 1.2em;
+    color: red;
+}
+body 
+{
+    background-size:cover;
+    background-image: url(../images/Street_Fighter_back.jpg);
+
+}
+.oui{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+@keyframes slide {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+}
+
+
+CSS SUPER SMASH BROS
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1
+{
+    font-family: "Arial black";
+	font-size : 2em;
+    color: red;
+}
+
+p
+{
+    font-family: "Arial" ;
+    font-size : 1.2em;
+    color: white;
+    animation-duration: 3s;
+    animation-name: slide;
+}
+body
+{
+    background-size:cover;
+   background-image: url(../images/smashback.jpg);
+}
+ul
+{
+    font-family: "Arial black";
+	font-size : 1.2em;
+    color: red;
+
+}
+.oui{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+@keyframes slide {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+}
+
+
+CSS MORTAL KOMBAT
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1
+{
+    font-family: "Arial black";
+	font-size : 2em;
+    color: rgb(31, 42, 196);
+}
+
+p
+{
+    font-family: "Arial" ;
+    font-size : 1.2em;
+    color: white;
+    animation-duration: 3s;
+    animation-name: slide;
+}
+body
+{
+    background-size:cover;
+    background-image: url(../images/mkback3.jpg);
+}
+ul
+{
+    font-family: "Arial black";
+	font-size : 1.2em;
+    color: red;
+}
+video {
+    float: right;
+  }
+
+  h2
+{
+    font-family: "Arial black";
+	font-size : 2em;
+    color: rgb(255, 255, 255);
+    float: right;
+    animation-duration: 3s;
+    animation-name: slide;
+}
+
+.oui{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+
+@keyframes slide {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+}
+
+CSS TEKKEN
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1
+{
+font-family: "Arial Black";
+color: white;
+}
+
+p
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    animation-duration: 3s;
+    animation-name: slide;
+}
+
+ul
+{
+    font-family: "Arial black";
+	font-size : 1.2em;
+    color: red;
+}
+body 
+{
+    background-size: cover;
+    background-image: url(../images/Tekken_back.webp);
+}
+
+.oui{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+@keyframes slide {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+}
+
+CSS A PROPOS
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+}
+
+h1{ 
+    color: white;
+}
+
+ul
+{
+    font-family: "Arial black";
+	font-size : 1.2em;
+    color: red;
+}
+
+.oui{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+body{ 
+    background-color : black; 
+}

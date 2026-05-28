@@ -1,0 +1,186 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background: #f4f4f4;
+    margin: 0;
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+}
+
+/* HEADER */
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background: black;
+    color: white;
+}
+
+nav a {
+    color: white;
+    margin-left: 15px;
+    text-decoration: none;
+}
+
+/* HERO */
+.hero {
+    text-align: center;
+    padding: 50px;
+    background: linear-gradient(135deg, #4facfe, #00f2fe);
+    color: white;
+}
+
+/* GRID */
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+    padding: 30px;
+}
+
+/* CARDS */
+.card {
+    background: white;
+    padding: 40px;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    border-radius: 10px;
+    transition: transform 0.3s;
+}
+
+/* ANIMATION */
+.card:hover {
+    transform: scale(1.1);
+}
+
+
+/* RESPONSIVE */
+@media (max-width: 600px) {
+    header {
+        flex-direction: column;
+        text-align: center;
+    }
+}
+
+/* CONTENU GENERAL SAE */
+.content {
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    line-height: 1.6;
+}
+
+/* TITRES */
+.content h2 {
+    margin-top: 20px;
+    color: #333;
+    border-left: 5px solid #4facfe;
+    padding-left: 10px;
+}
+
+/* LISTES */
+.content ul {
+    margin-top: 10px;
+    padding-left: 20px;
+}
+
+.content li {
+    margin-bottom: 8px;
+}
+
+/* ANIMATION APPARITION */
+.content {
+    animation: fadeIn 1s ease-in;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Permet de pousser le footer en bas */
+main {
+    flex: 1;
+}
+
+/* Footer reste en bas */
+footer {
+    text-align: center;
+    padding: 20px;
+    background: black;
+    color: white;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.photo-ronde {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    margin-bottom: 1rem;
+    object-fit: cover;
+}
+
+/* NAVIGATION */
+nav {
+    display: flex;
+    gap: 15px;
+}
+
+/* LIENS NAV */
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    transition: background 0.3s;
+}
+
+/* HOVER */
+nav a:hover {
+    background: rgba(255,255,255,0.2);
+}
+
+.site-content {
+	flex: 1;
+}
+
+.btn{
+    display: inline-block;
+    padding: 10px 20px;
+    background: #4facfe;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background 0.3s;
+}
+
+.btn:hover{
+    background: #00f2fe;
+}
+
+.presentation {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 40px;
+    
+}
